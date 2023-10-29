@@ -125,3 +125,7 @@ $$
 $$
 sI-A = \begin{bmatrix} s & -1 & 0 \\\ 0 & s & -1 \\\ 48 & 44 & s+12 \end{bmatrix}
 $$
+
+$$
+상태천이행렬=\frac{1}{s^3+12s^2+44s+48}\begin{bmatrix} s(s+12)+44 & s+12 & 1 \\\ -48 & s(s+12) & s \\\ 48s & -44s-48 & s^2 \end{bmatrix}
+$$
