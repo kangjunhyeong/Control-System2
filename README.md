@@ -8,7 +8,7 @@
 $$\frac{dx_2(t)}{dt} = \frac{F(t) - bx_2(t) - kx_1(t)}{M}\$$  
 (c)
 $$
-\frac{dy(t)}{dt}
+\frac{dy(t)}{dt}\
 $$
 
 $$
