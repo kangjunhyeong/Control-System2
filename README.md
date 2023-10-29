@@ -10,6 +10,6 @@ $$\frac{dx_2(t)}{dt} = \frac{F(t) - bx_2(t) - kx_1(t)}{M}\$$
 $$
 
 $$
-\begin{bmatrix} 0 & 1 \\ -\frac{k}{M} & -\frac{b}{M} \end{bmatrix}
+\begin{bmatrix} 0 & 1 \\ -\frac{k}{M} & -\frac{b}{M} \end{bmatrix} 
 $$
 
