@@ -99,5 +99,5 @@ $$
 (a)
 
 $$
-/frac{Y(s)}{R(s)} = \frac{8(s+5)}{s^3+12s^2+44s+48}/frac{w(s)}{w(s)}
+\frac{Y(s)}{R(s)} = \frac{8(s+5)}{s^3+12s^2+44s+48}\frac{w(s)}{w(s)}
 $$
