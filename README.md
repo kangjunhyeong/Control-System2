@@ -18,4 +18,8 @@ $$x_1(t)=i_L(t), x_2(t)=v_C(t)$$
 
 $$-v_1(t)+L\frac{di_L(t)}{dt}+R(i_L(t)-i_C(t))=0$$
 
-$$-v_1(t)+L\frac{di_L(t)}{dt}+R(x_1(t)-C\frac{x_2(t)}{dt})=0$$
+$$-v_1(t)+L\frac{di_L(t)}{dt}+R(x_1(t)-C\frac{x_2(t)}{dt})=0$$  
+
+위 두 식을 정리해주면  
+
+$$\frac{dx_1(t)}{dt} = \frac{1}{L}(v_1(t)-v_2(t)+x_2(t)
