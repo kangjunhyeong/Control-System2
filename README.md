@@ -4,5 +4,5 @@
 
 
 (a) $$y(t) = x_1(t), \frac{dy(t)}{dt} = x_2(t) $$  
-(b) $$frac{d^2y(t)}{dt^2} + b\frac{dy(t)}{dt} + ky(t) = F(t)\$$
+(b) $$\frac{d^2y(t)}{dt^2} + b\frac{dy(t)}{dt} + ky(t) = F(t)\$$
 
