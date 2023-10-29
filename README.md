@@ -13,5 +13,7 @@ $$\frac{dx_2(t)}{dt} = \frac{F(t) - bx_2(t) - kx_1(t)}{M}\$$
 ![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/7fe5c29b-973e-41c8-a3a4-405d6c65014f)  
 
 $$x_1(t)=i_L(t), x_2(t)=v_c(t)$$  
+
 이걸로 왼쪽 오른쪽 KVL을 돌려주면  
+
 $$-v_1(t)+L\frac{di_L(t)}{dt}+R(i_L(t)-i_c(t))=0$$
