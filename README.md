@@ -71,10 +71,13 @@ $$
 (b)  
 
 $$
-\frac{Y(s)}{R(s)}=\frac{s+2}{s^3+5s^2-23s+2)}\frac{w(s)}{w(s)}
+\frac{Y(s)}{R(s)}=\frac{s+2}{s^3+5s^2-23s+2}\frac{w(s)}{w(s)}
 $$  
 
 $$
 Y(s)=sw(s)+2w(s), R(s)=s^3w(s)+5w^2(s)-23sw(s)+2w(s)
 $$
 
+$$
+w(t)=x_1, w'(t)=x_2, w''(t)=x_3
+$$
