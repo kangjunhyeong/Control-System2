@@ -42,6 +42,7 @@ $$\frac{dx_2(t)}{dt} = \frac{1}{C}x_1(t) - \frac{v_2(t)}{RC} + \frac{x_2(t)}{RC}
 $$\begin{bmatrix}0&1\\\ (\frac{-k}{M})&\frac{-b}{M}\end{bmatrix}y(t)$$  
 
 $$
-dy/dt = | 0   1 | y(t)   + | 0      |
-        | -k/M -b/M|         | 1/M  | F(t)
+\[
+\frac{dy}{dt} = \begin{bmatrix} 0 & 1 \\ -\frac{k}{M} & -\frac{b}{M} \end{bmatrix} y(t) + \begin{bmatrix} 0 \\ \frac{1}{M} \end{bmatrix} F(t)
+\]
 $$
