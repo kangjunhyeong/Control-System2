@@ -42,3 +42,31 @@ $$-v_2(t)+x_2(t)+R(x_1(t)-i_C(t))=0$$
 위 식을 정리해주면  
 $$\frac{dx_2(t)}{dt} = \frac{1}{C}x_1(t) - \frac{v_2(t)}{RC} + \frac{x_2(t)}{RC}$$  
 
+이 식들을 상태미분방정식으로 표현해주면  
+
+$$
+\[
+\begin{bmatrix}
+\frac{dx_1(t)}{dt} \\
+\frac{dx_2(t)}{dt}
+\end{bmatrix}
+=
+\begin{bmatrix}
+0 & 1 \\
+\frac{1}{C} & \frac{1}{RC}
+\end{bmatrix}
+\begin{bmatrix}
+x_1(t) \\
+x_2(t)
+\end{bmatrix}
++
+\begin{bmatrix}
+\frac{1}{L} & -\frac{1}{L} \\
+0 & -\frac{1}{RC}
+\end{bmatrix}
+\begin{bmatrix}
+v_1(t) \\
+v_2(t)
+\end{bmatrix}
+\]
+$$
