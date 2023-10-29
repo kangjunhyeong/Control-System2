@@ -101,3 +101,16 @@ $$
 $$
 \frac{Y(s)}{R(s)} = \frac{8(s+5)}{s^3+12s^2+44s+48}\frac{w(s)}{w(s)}
 $$
+
+$$
+Y(s)=8(s+5)w(s), R(s)=(s^3+12s^2+44s+48)w(s)
+$$
+
+$$
+x_1(t)=w(t), x_2(t)=w'(t), x_3(t)=w''(t)
+$$
+
+$$
+\frac{dx(t)}{dt} = \begin{bmatrix} 0 & 1 & 0 \\\ 0 & 0 & 1 \\\ -48 & -44 & -12 \end{bmatrix}x(t) + \begin{bmatrix} 0 \\\ 0 \\\ 1 \end{bmatrix} r(t)
+
+$$
