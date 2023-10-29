@@ -91,5 +91,5 @@ $$
 $$
 
 $$
-y(t) = \begin{bmatrix} 2 & 1 & 0 \end{bmatrix} \begin{bmatrix} x_1(t) \\ x_2(t) \\ x_3(t) \end{bmatrix}
+y(t) = \begin{bmatrix} 2 & 1 & 0 \end{bmatrix}x(t)
 $$
