@@ -129,11 +129,19 @@ sI-A = \begin{bmatrix} s & -1 & 0 \\\ 0 & s & -1 \\\ 48 & 44 & s+12 \end{bmatrix
 $$
 
 $$
-상태천이행렬=\frac{1}{s^3+12s^2+44s+48}\begin{bmatrix} s(s+12)+44 & s+12 & 1 \\\ -48 & s(s+12) & s \\\ 48s & -44s-48 & s^2 \end{bmatrix}
+[sI-A]^{-1}=\frac{1}{s^3+12s^2+44s+48}\begin{bmatrix} s(s+12)+44 & s+12 & 1 \\\ -48 & s(s+12) & s \\\ 48s & -44s-48 & s^2 \end{bmatrix}
 $$
 
 ![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/3aacf3b1-0837-4553-88c2-f95e2f2b7739)  
 
 $$
 G(s)=C[sI-A]^{-1} B
+$$
+
+$$
+[sI-A]^{-1} = \frac{-4s+12}{s^3-14s^2+37s+20}\begin{bmatrix} (s-3)(s-10) & s-11 & -s+3 \\\ 4(s-10) & (s-1)(s-10)-2 & -4 \\\ -2s+10 & s-3 & (s-1)(s-3)+2 \end{bmatrix}
+$$  
+
+$$
+G(s) = \frac{-4s+12}{s^3-14s^2+37s+20}\begin{bmatrix} 1 \\\ 0 \\\ 0 \end{bmatrix}\begin{bmatrix} (s-3)(s-10) & s-11 & -s+3 \\\ 4(s-10) & (s-1)(s-10)-2 & -4 \\\ -2s+10 & s-3 & (s-1)(s-3)+2 \end{bmatrix}
 $$
