@@ -61,7 +61,7 @@ $$
 (a)
 
 $$
-Y(s) = R(s)(\frac{s+2}{s+8})(\frac{1}{s-3})(\frac{1}{s})
+\frac{Y(s)}{R(s)} = \frac{(\frac{s+2}{s+8})(\frac{1}{s-3})(\frac{1}{s})}{1+(\frac{s+2}{s+8})(\frac{1}{s-3})(\frac{1}{s}}
 $$
 
 $$
