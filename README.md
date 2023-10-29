@@ -85,3 +85,7 @@ $$
 $$
 y(t)=w'(t)+2w(t), r(t)=w'''(t)+5w''(t)-23'(t)+2w(t)
 $$
+
+$$
+\[ \begin{bmatrix} \dot{x}_1 \\ \dot{x}_2 \\ \dot{x}_3 \end{bmatrix} = \begin{bmatrix} 0 & 1 & 0 \\ 0 & 0 & 1 \\ -2 & 203 & -5 \end{bmatrix} \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix} + \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} r(t) \]
+$$
