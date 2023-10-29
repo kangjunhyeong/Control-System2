@@ -72,4 +72,9 @@ $$
 
 $$
 \frac{Y(s)}{R(s)}=\frac{s+2}{s(s-3)(s+8)}\frac{w(s)}{w(s)}
+$$  
+
 $$
+Y(s)=sw(s)+2w(s), R(s)=s^3w(s)+5w^2(s)-24sw(s)
+$$
+
