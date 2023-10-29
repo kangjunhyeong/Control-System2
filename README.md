@@ -143,5 +143,5 @@ $$
 $$  
 
 $$
-G(s) = \frac{-4s+12}{s^3-14s^2+37s+20}\begin{bmatrix} 1 \\\ 0 \\\ 0 \end{bmatrix}\begin{bmatrix} (s-3)(s-10) & s-11 & -s+3 \\\ 4(s-10) & (s-1)(s-10)-2 & -4 \\\ -2s+10 & s-3 & (s-1)(s-3)+2 \end{bmatrix}\begin{bmatrix} 0 \\\ 0 \\\ 4 \end{bmatrix}
+G(s) = \frac{-4s+12}{s^3-14s^2+37s+20}\begin{bmatrix} 1 \\\ 0 \\\ 0 \end{bmatrix}\begin{bmatrix} (s-3)(s-10) & s-11 & -s+3 \\\ 4(s-10) & (s-1)(s-10)-2 & -4 \\\ -2s+10 & s-3 & (s-1)(s-3)+2 \end{bmatrix}\begin{bmatrix} 0 \\\ 0 \\\ 4 \end{bmatrix} = \frac{-4s+12}{s^3-14s^2+37s+20}
 $$
