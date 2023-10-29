@@ -11,7 +11,7 @@ $$\frac{dx_2(t)}{dt} = \frac{F(t) - bx_2(t) - kx_1(t)}{M}\$$
 (c)  
 
 $$
-\frac{dy}{dt} = \begin{bmatrix} 0 & 1 \\\ -\frac{k}{M} & -\frac{b}{M} \end{bmatrix} y(t) + \begin{bmatrix} 0 \\ \frac{1}{M} \end{bmatrix} F(t)\
+\frac{dy}{dt} = \begin{bmatrix} 0 & 1 \\\ -\frac{k}{M} & -\frac{b}{M} \end{bmatrix} y(t) + \begin{bmatrix} 0 \\\ \frac{1}{M} \end{bmatrix} F(t)\
 $$
 
 ![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/7fe5c29b-973e-41c8-a3a4-405d6c65014f)  
