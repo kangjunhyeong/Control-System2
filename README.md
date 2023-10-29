@@ -52,5 +52,5 @@ A행렬이 다음과 같으므로
 ![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/37288a2a-5dab-4c58-b4b5-fcf680669ff1)  
 
 $$
-\begin{bmatrix} \frac{dx_1(t)}{dt} \\\ \frac{dx_2(t)}{dt} \end{bmatrix} = \begin{bmatrix} 0 & 1 \\\ \frac{-1}{C} & \frac{-1}{RC} \end{bmatrix} \begin{bmatrix} x_1(t) \\\ x_2(t) \end{bmatrix} + \begin{bmatrix} \frac{1}{L} & -\frac{1}{L} \\\ 0 & -\frac{1}{RC} \end{bmatrix} \begin{bmatrix} v_1(t) \\\ v_2(t) \end{bmatrix}
+\begin{bmatrix} \frac{dx_1(t)}{dt} \\\ \frac{dx_2(t)}{dt} \end{bmatrix} = \begin{bmatrix} 0 & 1 \\\ \frac{-1}{C} & \frac{-1}{RC} \end{bmatrix} \begin{bmatrix} x_1(t) \\\ x_2(t) \end{bmatrix} + \begin{bmatrix} \frac{1}{L} & -\frac{1}{L} \\\ 0 & -\frac{-1}{RC} \end{bmatrix} \begin{bmatrix} v_1(t) \\\ v_2(t) \end{bmatrix}
 $$
