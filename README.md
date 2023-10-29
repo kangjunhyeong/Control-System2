@@ -120,10 +120,8 @@ $$
 
 (b)  
 
-$$
 상태천이행렬=[sI-A]'
-$$
 
 $$
-A = \begin{bmatrix} 0 & 1 & 0 \\\ 0 & 0 & 1 \\\ -48 & -44 & -12 \end{bmatrix}
+sI-A = \begin{bmatrix} s & -1 & 0 \\\ 0 & s & -1 \\\ 48 & 44 & s+12 \end{bmatrix}
 $$
