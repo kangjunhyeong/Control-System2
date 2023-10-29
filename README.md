@@ -129,3 +129,9 @@ $$
 $$
 상태천이행렬=\frac{1}{s^3+12s^2+44s+48}\begin{bmatrix} s(s+12)+44 & s+12 & 1 \\\ -48 & s(s+12) & s \\\ 48s & -44s-48 & s^2 \end{bmatrix}
 $$
+
+![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/3aacf3b1-0837-4553-88c2-f95e2f2b7739)  
+
+$$
+G(s)=C[sI-A]^(-1)B
+$$
