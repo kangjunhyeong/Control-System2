@@ -4,11 +4,12 @@
 
 
 (a) $$y(t) = x_1(t), \frac{dy(t)}{dt} = x_2(t) $$  
-(b) $$M\frac{d^2y(t)}{dt^2} + b\frac{dy(t)}{dt} + ky(t) = F(t)\$$  
+(b)
+$$\frac{dx_1(t)}{dt} = x_2(t)\$$  
+$$M\frac{d^2y(t)}{dt^2} + b\frac{dy(t)}{dt} + ky(t) = F(t)\$$  
 $$\frac{dx_2(t)}{dt} = \frac{F(t) - bx_2(t) - kx_1(t)}{M}\$$  
 (c)
-$$\frac{dx_1(t)}{dt} = x_2(t)\$$  
-$$\frac{dx_2(t)}{dt} = \frac{F(t) - bx_2(t) - kx_1(t)}{M}\$$  
+
 
 ![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/7fe5c29b-973e-41c8-a3a4-405d6c65014f)  
 
@@ -36,4 +37,5 @@ $$-v_2(t)+v_C(t)+R(i_L(t)-i_C(t))=0$$
 $$-v_2(t)+x_2(t)+R(x_1(t)-i_C(t))=0$$  
 
 위 식을 정리해주면  
-$$\frac{dx_2(t)}{dt} = \frac{1}{C}x_1(t) - \frac{v_2(t)}{RC} + \frac{x_2(t)}{RC}$$
+$$\frac{dx_2(t)}{dt} = \frac{1}{C}x_1(t) - \frac{v_2(t)}{RC} + \frac{x_2(t)}{RC}$$  
+
