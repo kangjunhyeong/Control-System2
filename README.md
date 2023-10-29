@@ -7,10 +7,8 @@
 (b) $$\frac{d^2y(t)}{dt^2} + b\frac{dy(t)}{dt} + ky(t) = F(t)\$$  
 $$\frac{dx_2(t)}{dt} = \frac{F(t) - bx_2(t) - kx_1(t)}{M}\$$  
 (c) $$
-[
     [0, 1],
     [-\frac{k}{M}, -\frac{b}{M}]
-]
 $$
 
 
