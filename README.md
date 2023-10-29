@@ -54,3 +54,8 @@ A행렬이 다음과 같으므로
 $$
 \begin{bmatrix} \frac{dx_1(t)}{dt} \\\ \frac{dx_2(t)}{dt} \end{bmatrix} = \begin{bmatrix} 0 & 1 \\\ \frac{-1}{C} & \frac{-1}{RC} \end{bmatrix} \begin{bmatrix} x_1(t) \\\ x_2(t) \end{bmatrix} + \begin{bmatrix} \frac{1}{L} & -\frac{1}{L} \\\ 0 & -\frac{-1}{RC} \end{bmatrix} \begin{bmatrix} v_1(t) \\\ v_2(t) \end{bmatrix}
 $$
+
+![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/7975f19d-6bde-4dad-9681-065672028140)
+![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/6f9f90ab-cd16-4f23-b955-139ab63adc42)  
+
+
