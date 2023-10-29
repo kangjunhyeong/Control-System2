@@ -117,3 +117,9 @@ $$
 $$
 y(t) = \begin{bmatrix} 40 & 8 & 0 \end{bmatrix}x(t)
 $$
+
+(b)  
+
+$$
+상태천이행렬=[sI-A]
+$$
