@@ -111,5 +111,9 @@ x_1(t)=w(t), x_2(t)=w'(t), x_3(t)=w''(t)
 $$
 
 $$
-\frac{dx(t)}{dt} = \begin{bmatrix} 0 & 1 & 0 \\\ 0 & 0 & 1 \\\ -48 & -44 & -12 \end{bmatrix}x(t) + \begin{bmatrix} 0 \\\ 0 \\\ 1 \end{bmatrix} r(t)
+\dot{x} = \begin{bmatrix} 0 & 1 & 0 \\\ 0 & 0 & 1 \\\ -48 & -44 & -12 \end{bmatrix}x(t) + \begin{bmatrix} 0 \\\ 0 \\\ 1 \end{bmatrix} r(t)
+$$
+
+$$
+y(t) = \begin{bmatrix} 40 & 8 & 0 \end{bmatrix}x(t)
 $$
