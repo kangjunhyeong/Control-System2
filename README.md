@@ -93,3 +93,11 @@ $$
 $$
 y(t) = \begin{bmatrix} 2 & 1 & 0 \end{bmatrix}x(t)
 $$
+
+![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/656b364a-227f-41f1-a13f-7de89b2cd14f)  
+
+(a)
+
+$$
+/frac{Y(s)}{R(s)} = \frac{8(s+5)}{s^3+12s^2+44s+48}/frac{w(s)}{w(s)}
+$$
