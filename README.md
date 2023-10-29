@@ -30,3 +30,10 @@ $$\frac{dx_1(t)}{dt} = \frac{1}{L}(v_1(t)-v_2(t)+x_2(t))$$
 (2) 오른쪽 KVL  
 
 $$-v_2(t)+v_C(t)+R(i_L(t)-i_C(t))=0$$
+
+상태변수를 대입해주면
+
+$$-v_2(t)+x_2(t)+R(x_1(t)-i_C(t))=0$$  
+
+위 식을 정리해주면  
+$$\frac{dx_2(t)}{dt} = \frac{1}{C}x_1(t) - \frac{v_2(t)}{RC} + \frac{x_2(t)}{RC}$$
