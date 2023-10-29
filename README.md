@@ -133,5 +133,5 @@ $$
 ![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/3aacf3b1-0837-4553-88c2-f95e2f2b7739)  
 
 $$
-G(s)=C[sI-A]^(-1)B
+G(s)=C[sI-A]^-1B
 $$
