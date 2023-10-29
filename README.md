@@ -39,4 +39,4 @@ $$-v_2(t)+x_2(t)+R(x_1(t)-i_C(t))=0$$
 위 식을 정리해주면  
 $$\frac{dx_2(t)}{dt} = \frac{1}{C}x_1(t) - \frac{v_2(t)}{RC} + \frac{x_2(t)}{RC}$$  
 
-$$\begin{bmatrix}0&1\\ \\frac{-k}{M}& \frac{-b}{M}\end{bmatrix}y(t)$$
+$$\begin{bmatrix}0&1\\frac{-k}{M}&\frac{-b}{M}\end{bmatrix}y(t)$$
