@@ -60,6 +60,6 @@ $$
 
 (a)  
 $$
-Y(s)=R(s)\frac{s+2}{s+8}\frac{1}{s-3}\frac{1}{s}
+Y(s)=R(s) \frac{s+2}{s+8} \frac{1}{s-3} \frac{1}{s}
 $$
 
