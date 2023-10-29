@@ -58,4 +58,8 @@ $$
 ![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/7975f19d-6bde-4dad-9681-065672028140)
 ![image](https://github.com/kangjunhyeong/Control-System2/assets/144297425/6f9f90ab-cd16-4f23-b955-139ab63adc42)  
 
+(a)  
+$$
+Y(s)=R(s)\frac{s+2}{s+8}\frac{1}{s-3}\frac{1}{s}
+$$
 
