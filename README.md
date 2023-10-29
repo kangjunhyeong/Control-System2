@@ -11,7 +11,7 @@ $$
 \frac{dy(t)}{dt}=1\
 $$
 
-$$
+$$  
 \begin{bmatrix}0&1\\\ -\frac{k}{M}&-\frac{b}{M}\end{bmatrix} 
 $$
 
