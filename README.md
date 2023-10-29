@@ -6,7 +6,7 @@
 (a) $$y(t) = x_1(t), \frac{dy(t)}{dt} = x_2(t) $$  
 (b) $$M\frac{d^2y(t)}{dt^2} + b\frac{dy(t)}{dt} + ky(t) = F(t)\$$  
 $$M\frac{dx_2(t)}{dt} = \frac{F(t) - bx_2(t) - kx_1(t)}{M}\$$  
-(c) $$M\frac{dx_2(t)}{dt} = \frac{F(t) - bx_2(t) - kx_1(t)}{M}\$$  
-$$\frac{dx_1(t)}{dt} = x_2(t)\$$
-
+(c)
+$$\frac{dx_1(t)}{dt} = x_2(t)\$$  
+$$M\frac{dx_2(t)}{dt} = \frac{F(t) - bx_2(t) - kx_1(t)}{M}\$$  
 
