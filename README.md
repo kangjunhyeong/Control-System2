@@ -22,4 +22,4 @@ $$-v_1(t)+L\frac{di_L(t)}{dt}+R(x_1(t)-C\frac{x_2(t)}{dt})=0$$
 
 위 두 식을 정리해주면  
 
-$$\frac{dx_1(t)}{dt} = \frac{1}{L}(v_1(t)-v_2(t)+x_2(t)
+$$\frac{dx_1(t)}{dt} = \frac{1}{L}(v_1(t)-v_2(t)+x_2(t)$$
